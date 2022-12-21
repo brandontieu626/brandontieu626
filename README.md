@@ -1,4 +1,5 @@
 <h1 align="center">Hi , I'm Brandon !👋</h1>
+- 👨‍💻 All of my projects are available at [www.brandontieu.com](www.brandontieu.com)
 - 🌱 I’m currently learning Full Stack Development
 
 - 👨‍💻 All of my projects are available at [www.brandontieu.com](www.brandontieu.com)
