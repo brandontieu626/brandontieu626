@@ -2,7 +2,7 @@
 
 * 🌱 I’m currently learning **Full Stack Development**
 
-* 👨‍💻 All of my projects are available at [www.brandontieu.com](www.brandontieu.com)
+* 👨‍💻 All of my projects are available at [https://www.brandontieu.com/](https://www.brandontieu.com/)
 
 * 📫 How to reach me **brandontieu626@gmail.com**
 
